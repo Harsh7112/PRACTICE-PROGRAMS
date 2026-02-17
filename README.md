@@ -6,8 +6,7 @@
 
 🌱 Currently exploring Machine Learning & Data Science projects
 
-⚡ Fun fact: I enjoy turning data into meaningful insights 📊. I'm a curious guy for tech stuff!!
-By the way I'm interested to do trading also [Mainly I focus on forex market but currently I'm exploring stocks too].
+⚡ Fun fact: I love transforming data into meaningful insights 📊 and constantly exploring new technologies. I’m also passionate about trading—primarily focused on the forex market, while currently expanding my interest into crypto.
 
 <h2>🛠️ Languages & Tools</h2>
 
