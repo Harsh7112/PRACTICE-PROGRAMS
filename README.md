@@ -18,15 +18,6 @@
         Hey! I'm Harsh Tiwari, an 18-year-old student who isn’t interested in traditional academics. I’m fascinated by dark, unsettling topics — the kind of stories that scare people, make them emotional, and keep them awake at night. I’m also passionate about trading in the forex and crypto markets. I’ve been consistently profitable in my paper trading accounts, achieving my target monthly profit of 20% within the first 12–13 working days, with an accuracy rate of around 60%.
       </p>
     </section>
-
-  <section>
-      <h2>Academics</h2>
-      <ul>
-        <li><strong>10th:</strong> 82.66% (Math: 87, Science: 83, English: 71)</li>
-        <li><strong>12th:</strong> 67.67% (Math: 60, Physics: 64, Chemistry: 76)</li>
-      </ul>
-    </section>
-
   <section>
       <h2>Skills</h2>
       <div class="skills">
