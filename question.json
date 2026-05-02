@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the output of print(2 ** 3)?",
+    "options": ["6", "8", "9", "5"],
+    "answer": "8"
+  },
+  {
+    "question": "Which data type is immutable in Python?",
+    "options": ["List", "Dictionary", "Set", "Tuple"],
+    "answer": "Tuple"
+  },
+  {
+    "question": "What does CPU stand for?",
+    "options": ["Central Process Unit", "Central Processing Unit", "Computer Personal Unit", "Control Processing Unit"],
+    "answer": "Central Processing Unit"
+  },
+  {
+    "question": "Which keyword is used to define a function in Python?",
+    "options": ["func", "define", "def", "function"],
+    "answer": "def"
+  },
+  {
+    "question": "What is the output of print(len('Hello'))?",
+    "options": ["4", "5", "6", "Error"],
+    "answer": "5"
+  },
+  {
+    "question": "Which symbol is used for comments in Python?",
+    "options": ["//", "#", "/*", "--"],
+    "answer": "#"
+  },
+  {
+    "question": "Which of the following is a Python framework?",
+    "options": ["Django", "React", "Angular", "Vue"],
+    "answer": "Django"
+  },
+  {
+    "question": "What is the correct file extension for Python files?",
+    "options": [".pt", ".py", ".pyt", ".python"],
+    "answer": ".py"
+  },
+  {
+    "question": "Which operator is used for floor division?",
+    "options": ["/", "//", "%", "**"],
+    "answer": "//"
+  },
+  {
+    "question": "What will print(type(10)) return?",
+    "options": ["<class 'int'>", "<class 'float'>", "<class 'str'>", "<class 'number'>"],
+    "answer": "<class 'int'>"
+  }
+]
