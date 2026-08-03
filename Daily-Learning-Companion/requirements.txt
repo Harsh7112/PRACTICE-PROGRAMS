@@ -1,6 +1,0 @@
-# Daily Learning Companion - dependencies
-# The app uses only the Python standard library by default,
-# so there are no hard requirements. Colorama is listed as an
-# optional dependency to improve color support on Windows terminals.
-
-colorama>=0.4.6 ; platform_system == "Windows"
